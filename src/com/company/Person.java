@@ -17,4 +17,7 @@ public class Person {
     public void eat() {
         System.out.println("Постоянно кушает!");
     }
+    
+    //you missed getters & setters 
+    //also you missed toString() method!
 }
